@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkbiyRyQxhGivnQ7FccjBH88eiC4nQ9X6ZONr0rhTbaJoLUiedjtwaCeU5SKzpAzxO2MmlxASO65olePYwZ91w==",
+  "success": true,
+  "projectFilePath": "/project/sandbox/user-workspace/SqlClrFunctions.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
