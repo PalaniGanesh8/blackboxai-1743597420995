@@ -1,0 +1,8 @@
+/project/sandbox/user-workspace/bin/Release/net48/SqlClrFunctions.dll
+/project/sandbox/user-workspace/bin/Release/net48/SqlClrFunctions.pdb
+/project/sandbox/user-workspace/obj/Release/net48/SqlClrFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/obj/Release/net48/SqlClrFunctions.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/obj/Release/net48/SqlClrFunctions.AssemblyInfo.cs
+/project/sandbox/user-workspace/obj/Release/net48/SqlClrFunctions.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/obj/Release/net48/SqlClrFunctions.dll
+/project/sandbox/user-workspace/obj/Release/net48/SqlClrFunctions.pdb
