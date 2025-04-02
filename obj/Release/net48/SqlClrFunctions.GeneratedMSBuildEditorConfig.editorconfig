@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SqlClrFunctions
+build_property.ProjectDir = /project/sandbox/user-workspace/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
