@@ -1,0 +1,21 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# NuGet packages
+packages/
+
+# Misc
+*.dll
+*.pdb
+*.cache
+*.log
+
+# But include these specific files
+!DeployClrFunctions.sql
+!UserDefinedFunctions.cs
