@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wkbiyRyQxhGivnQ7FccjBH88eiC4nQ9X6ZONr0rhTbaJoLUiedjtwaCeU5SKzpAzxO2MmlxASO65olePYwZ91w==",
+  "dgSpecHash": "PtuzEcqz9W/SfOKuLTco4QxP1ElTgKq8g6Q3Z4MVp07v/sj6wA5/fL2VhG17yUl6NV3IZd75UW6y2WUpDLpIbw==",
   "success": true,
   "projectFilePath": "/project/sandbox/user-workspace/SqlClrFunctions.csproj",
   "expectedPackageFiles": [
     "/root/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+    "/root/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.sqlserver.sqlmanagementobjects/140.17283.0/microsoft.sqlserver.sqlmanagementobjects.140.17283.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.sqlserver.types/14.0.1016.290/microsoft.sqlserver.types.14.0.1016.290.nupkg.sha512"
   ],
   "logs": []
 }
